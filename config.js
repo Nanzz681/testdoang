@@ -33,8 +33,8 @@ export default {
    // Set your URL and API key here
    APIs: {
       xfarr: {
-         baseURL: 'https://api.xfarr.com',
-         Key: "9mpiFJ9Yt6"
+         baseURL: 'https://api.lolhuman.xyz',
+         Key: "a67a913e1ef995d8aa071aab"
       }
    },
 
