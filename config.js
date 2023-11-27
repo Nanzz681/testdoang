@@ -34,7 +34,7 @@ export default {
    APIs: {
       xfarr: {
          baseURL: 'https://api.lolhuman.xyz',
-         Key: "a67a913e1ef995d8aa071aab"
+         Key: "bb1b2cf6086adca8d06c3067"
       }
    },
 
